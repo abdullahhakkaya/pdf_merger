@@ -2,6 +2,8 @@
 
 Bu proje, dikey olarak iki parçaya bölünmüş PDF sayfalarını birleştirip okunabilir tam sayfalar haline getiren bir web uygulamasıdır.
 
+Bu uygulama, A4 boyutunun yarısı veya benzeri küçük PDF sayfalarının yazdırılması sırasında ortaya çıkan gereksiz boşluk ve kaynak kullanımını önlemek amacıyla, sayfaları tam sayfa olarak birleştirmek için geliştirilmiştir.
+
 ## 🚀 Özellikler
 
 - Yarım veya bölünmüş PDF sayfalarını otomatik olarak birleştirir.
